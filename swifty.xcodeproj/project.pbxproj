@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DC6AD04F1E86FE9E003FEA4C /* ddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6AD04E1E86FE9D003FEA4C /* ddViewController.swift */; };
+		DC6AD0511E86FF1E003FEA4C /* gdfgdgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6AD0501E86FF1E003FEA4C /* gdfgdgViewController.swift */; };
 		DC7388251E84527400BB7E26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7388241E84527400BB7E26 /* AppDelegate.swift */; };
 		DC7388271E84527400BB7E26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7388261E84527400BB7E26 /* ViewController.swift */; };
 		DC73882A1E84527400BB7E26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC7388281E84527400BB7E26 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		DC6AD04E1E86FE9D003FEA4C /* ddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ddViewController.swift; sourceTree = "<group>"; };
+		DC6AD0501E86FF1E003FEA4C /* gdfgdgViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gdfgdgViewController.swift; sourceTree = "<group>"; };
 		DC7388211E84527400BB7E26 /* swifty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swifty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7388241E84527400BB7E26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC7388261E84527400BB7E26 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				DC7388241E84527400BB7E26 /* AppDelegate.swift */,
 				DC7388261E84527400BB7E26 /* ViewController.swift */,
 				DC6AD04E1E86FE9D003FEA4C /* ddViewController.swift */,
+				DC6AD0501E86FF1E003FEA4C /* gdfgdgViewController.swift */,
 				DC7388281E84527400BB7E26 /* Main.storyboard */,
 				DC73882B1E84527400BB7E26 /* Assets.xcassets */,
 				DC73882D1E84527400BB7E26 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				DC7388271E84527400BB7E26 /* ViewController.swift in Sources */,
 				DC7388251E84527400BB7E26 /* AppDelegate.swift in Sources */,
 				DC6AD04F1E86FE9E003FEA4C /* ddViewController.swift in Sources */,
+				DC6AD0511E86FF1E003FEA4C /* gdfgdgViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
