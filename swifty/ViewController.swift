@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         self.view.backgroundColor = UIColor .redColor()
         self.view.backgroundColor = UIColor .blackColor()
         self.view.backgroundColor = UIColor .blackColor()
-        self.view.backgroundColor = UIColor .redColor()
+        
         self.view.backgroundColor = UIColor .blackColor()
         self.view.backgroundColor = UIColor .redColor()
         self.view.backgroundColor = UIColor .blackColor()
