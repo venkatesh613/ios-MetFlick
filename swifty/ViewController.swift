@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor .blackColor()
         self.view.backgroundColor = UIColor .redColor()
+        self.view.backgroundColor = UIColor .blackColor()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
